@@ -54,7 +54,7 @@ export const ActionPlanGenerator: React.FC<ActionPlanGeneratorProps> = ({ select
       <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 sm:p-8 space-y-6 text-slate-200">
         {/* Document Header with Official School Crest */}
         <div className="border-b border-slate-800 pb-6 text-center space-y-3 flex flex-col items-center">
-          <SchoolCrest className="w-16 h-20 mb-1" />
+          <SchoolCrest className="w-12 h-12 mb-1" />
           <span className="text-xs font-bold text-amber-400 font-heading uppercase tracking-widest block">
             GOVERNO DO ESTADO DO ESPÍRITO SANTO · SEDU/ES
           </span>

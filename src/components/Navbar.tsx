@@ -29,7 +29,7 @@ export const Navbar: React.FC<NavbarProps> = ({ activeTab, setActiveTab, onOpenG
               onClick={() => setActiveTab('cronograma')}
               className="flex items-center gap-3 text-left focus:outline-none group"
             >
-              <SchoolCrest className="w-9 h-11 object-contain hover:scale-105 transition-transform" />
+              <SchoolCrest className="w-9 h-9 hover:scale-105 transition-transform" />
               <div className="flex flex-col justify-center">
                 <span className="text-xl font-black tracking-tight text-white font-heading group-hover:text-blue-400 transition-colors leading-none">
                   PIV2026

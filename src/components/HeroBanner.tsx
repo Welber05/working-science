@@ -64,9 +64,9 @@ export const HeroBanner: React.FC<HeroBannerProps> = ({ onSelectTab, onOpenGemin
           </div>
         </div>
 
-        {/* Official School Crest Emblem Badge */}
+        {/* Energy Lightning Badge */}
         <div className="hidden sm:flex items-center justify-center p-4 bg-slate-950/80 rounded-2xl border border-slate-800 shrink-0">
-          <SchoolCrest className="w-24 h-28 drop-shadow-md" />
+          <SchoolCrest className="w-16 h-16 drop-shadow-md" />
         </div>
       </div>
     </div>
