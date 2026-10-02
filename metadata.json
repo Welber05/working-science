@@ -1,0 +1,6 @@
+{
+  "name": "ASNPI2026",
+  "description": "Plataforma do Projeto Integrador Interdisciplinar de Ciências da Natureza e Matemática - A Conta de Luz e a Eficiência Energética na EEEFM Antônio dos Santos Neves",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
